@@ -82,11 +82,10 @@ Son funciones empleadas para la configuración e interacción con el puerto seri
 
 ### Pasos para programar un dispositivo usando el Framework de Arduino
 
-<!--
 :::tip
 **Arduino Cheat Sheet**: Existen referencias breves que muestran de manera resumida el API de arduino. La referecia **Arduino Cheat Sheet** ([link](/cheat_sheet/Arduino_Cheat_Sheet.pdf)) es uno de estos casos ([URL principal](https://github.com/liffiton/Arduino-Cheat-Sheet))
 :::
--->
+
 Para usar el API de arduino es necesario tener en cuenta los siguientes pasos:
 1. Si la placa es generica, verificar esta es Arduino compatible ([link wikipedia](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems))
 2. Identificar claramente, las caracteristicas, los pines y la funcionalidad de la placa a usar. Para esto es necesario revisar el manual de usuario de la placa, A continuación se muestran algunos ejemplos: 
