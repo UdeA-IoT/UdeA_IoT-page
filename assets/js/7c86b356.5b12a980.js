@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkude_a_io_t_page=self.webpackChunkude_a_io_t_page||[]).push([[2192],{3960:e=>{e.exports=JSON.parse('{"permalink":"/UdeA_IoT-page/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

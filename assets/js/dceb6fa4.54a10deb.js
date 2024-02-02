@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkude_a_io_t_page=self.webpackChunkude_a_io_t_page||[]).push([[4732],{1560:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/UdeA_IoT-page/blog/tags/facebook","allTagsPath":"/UdeA_IoT-page/blog/tags","count":1,"unlisted":false}')}}]);
